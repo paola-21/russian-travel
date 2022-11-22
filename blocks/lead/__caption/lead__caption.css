@@ -8,12 +8,11 @@
   letter-spacing: 1.5px;
   text-transform: uppercase;
   margin: 0;
-  padding-top: 8px;
+  padding-top: 4px;
 }
 
 @media (max-width: 768px) { 
   .lead__caption {
-    padding-top: 8px;
     padding-left: 24px;
   }  
 }
