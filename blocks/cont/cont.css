@@ -1,0 +1,21 @@
+.cont {
+  max-width: 1280px;
+}
+
+@media (max-width: 1024px) {
+  .cont {
+    max-width: 1024px;
+  }
+}  
+
+@media (max-width: 768px) { 
+  .cont {
+    max-width: 768px;
+  }
+}
+
+@media (max-width: 424px) {
+  .cont {
+    max-width: 424px;
+  }
+  }    

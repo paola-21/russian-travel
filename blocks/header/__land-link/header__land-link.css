@@ -1,0 +1,15 @@
+.header__land-link {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+  margin: 0;
+}
+
+@media (max-width: 424px) {
+  .header__land-link {
+    font-size: 18px;
+    line-height: 20px;
+  }
+}  
