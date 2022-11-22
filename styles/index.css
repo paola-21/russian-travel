@@ -6,7 +6,7 @@
 
 .page_container {
   margin: 0 auto 0 auto;
-  width: 1280px;
+  max-width: 1280px;
 }
 .header {
   margin: 0;
@@ -119,8 +119,9 @@
     padding: 0 104px 0 104px;
   }
   
+
   .lead__subtitle {
-    padding: 32px 144px 64px 144px;
+    padding: 32px 144px 56px 144px;
   }
 } 
   
@@ -154,7 +155,11 @@
   .lead__subtitle {
     padding: 32px 64px 64px 64px;
   }
-    
+  .lead__image {
+    width: 768px;
+    height: 480px; 
+  }
+
   .lead__caption {
     padding-top: 8px;
     padding-left: 24px;
