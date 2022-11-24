@@ -1,6 +1,5 @@
 .photo-grid {
   max-width: 1184px;
-  max-height: 671px;
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: repeat(3, 1fr);
@@ -11,7 +10,6 @@
 @media (max-width: 1024px) {
   .photo-grid {
     max-width: 928px;
-    max-height: 942px;
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(4, 1fr);
     padding: 0 48px 92px 48px;
@@ -22,7 +20,6 @@
 @media (max-width: 768px) { 
 .photo-grid {
   max-width: 720px;
-  max-height: 1664px;
   grid-template-columns: repeat(2, 1fr);
   grid-template-rows: repeat(6, 1fr);
   padding: 0 24px 94px 24px;
@@ -32,7 +29,6 @@
 @media (max-width: 425px) {
 .photo-grid {
   max-width: 425px;
-  max-height: 2724px;
   grid-template-columns: repeat(1, 1fr);
   grid-template-rows: repeat(3, 1fr);
   padding: 0 16px 64px 16px;

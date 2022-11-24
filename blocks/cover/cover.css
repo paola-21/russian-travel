@@ -47,7 +47,7 @@
 @media (max-width: 425px) {
 .cover {
   margin: 0 0 64px 0;
-  min-width: 320px;
+  max-width: 425px;
   height: 200px;
   background-image: url(../../images/cover-trains.jpg);
   background-size: 320px 200px;
