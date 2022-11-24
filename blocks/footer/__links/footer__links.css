@@ -1,0 +1,10 @@
+.footer__links {
+  display: inline-flex;
+  list-style: none;
+  gap: 18px;
+  padding-left: 0;
+}
+
+@media (max-width: 424px) {
+
+}

@@ -25,69 +25,14 @@
 @import url(../blocks/place/__website/__link/place__website__link.css);
 @import url(../blocks/place/__image/place__image.css);
 @import url(../blocks/place/__paragraph/place__paragraph.css);
-
-.cover {
-  margin: 0 48px 92px 48px;
-  max-width: 1184px;
-  height: 740px;
-  background-image: url(../images/cover-trains.jpg);
-  background-size: 1184px 740px;
-  background-position: center center;
-  background-size: cover;
-  position: relative;
-  z-index: 1;
-}
-
-.cover::before{
-  content: '';
-  position: absolute;
-	top: 0;
-	left: 0;
-	right: 0;
-	bottom: 0;
-  z-index: -1;
-  background-color: #000;
-	opacity: 0.3;
-  transition: opacity 350ms ease;
-}
-
-.cover:hover::before {
-  opacity: 0.8;
-}
-
-.cover__link {
-  text-decoration: none;
-}
-
-.cover__title {
-  margin: 0;
-  max-width: 560px;
-  font-family: 'Inter';
-  font-style: normal;
-  font-weight: 900;
-  font-size: 72px;
-  line-height: 76px;
-  padding: 245px 312px 32px 312px;
-  text-align: center;
-  color: #FFFFFF;
-}
-
-.cover__subtitle {
-  margin: 0;
-  max-width: 360px;
-  padding: 0 412px 245px 412px;
-  font-family: 'Inter';
-  font-style: normal;
-  font-weight: 400;
-  font-size: 18px;
-  line-height: 22px;
-  text-align: center;
-  color: #FFFFFF;
-}
-
-
-
-
+@import url(../blocks/cover/cover.css);
+@import url(../blocks/cover/__link/cover__link.css);
+@import url(../blocks/cover/__title/cover__title.css);
+@import url(../blocks/cover/__subtitle/cover__subtitle.css);
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__links/footer__links.css);
+@import url(../blocks/footer/__link/footer__link.css);
+@import url(../blocks/footer/__copyright/footer__copyrigh.css);
 
 
 
