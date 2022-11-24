@@ -12,7 +12,6 @@
 
 @media (max-width: 425px) {
   .lead__image {
-    width: 320px;
-    height: 200px; 
+    max-width: 425px; 
   }  
 }
