@@ -27,7 +27,7 @@
   }
 }
 
-@media (max-width: 424px) {
+@media (max-width: 425px) {
   .lead {
     max-width: 320px;
     min-height: 406px;

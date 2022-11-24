@@ -24,7 +24,7 @@
   }
 }
 
-@media (max-width: 424px) {
+@media (max-width: 425px) {
   .place {
     grid-template-rows: 1fr;
     grid-template-columns: auto;
