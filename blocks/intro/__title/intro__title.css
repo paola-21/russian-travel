@@ -22,5 +22,7 @@
     font-size: 34px;
     line-height: 32px;
     padding-bottom: 42px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
    }
 } 
