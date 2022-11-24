@@ -14,12 +14,14 @@
 @media (max-width: 1024px) {
 .cover__subtitle {
   padding: 0 332px 195px 332px;
+  min-width: 360px;
 }
 }
 
 @media (max-width: 768px) { 
 .cover__subtitle {
   padding: 0 204px 115px 204px;
+  min-width: 360px;
 }
 }
 

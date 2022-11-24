@@ -20,10 +20,11 @@
   }
 }
 
-@media (max-width: 424px) {
+@media (max-width: 425px) {
   .places {
     max-width: 320px;
     padding: 0 0 66px 0;
     row-gap: 50px;
+    max-height: 5177px;
   }
 }
