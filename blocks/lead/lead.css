@@ -26,6 +26,7 @@
 @media (max-width: 425px) {
   .lead {
     max-width: 425px;
+    padding-top: 50px;
     padding-left: 2px;
     padding-right: 2px;
   }

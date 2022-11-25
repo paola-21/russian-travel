@@ -24,7 +24,7 @@
 
 @media (max-width: 425px) {
   .place {
-    grid-template-rows: 1fr;
+    grid-template-rows: auto;
     grid-template-columns: auto;
     row-gap: 32px;
   }
