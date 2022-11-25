@@ -1,9 +1,9 @@
 .header__land-link {
-  font-family: 'Inter';
+  font-family: 'Inter', "Arial ", sans-serif;
   font-style: normal;
   font-weight: 400;
-  font-size: 24px;
-  line-height: 28px;
+  font-size: 22px;
+  line-height: 38px;
   margin: 0;
   text-decoration: none;
   color: #FFFFFF;
