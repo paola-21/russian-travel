@@ -1,4 +1,4 @@
-.website_link {
+.website__link {
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
@@ -8,7 +8,7 @@
   color: #FFFFFF;
 }
 
-.website_link:hover {
+.website__link:hover {
   border: 1px solid rgba(0, 0, 0, 0.8);
   box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2);
 }
