@@ -1,8 +1,8 @@
 .cover {
   margin: 0 48px 92px 48px;
-  max-width: 1184px;
+  /*max-width: 1184px;*/
   background-image: url(../../images/cover-trains.jpg);
-  background-size: 1184px 740px;
+  /*background-size: 1184px 740px;*/
   background-position: center center;
   position: relative;
   z-index: 1;
@@ -45,7 +45,6 @@
 .cover {
   margin: 0 0 64px 0;
   max-width: 320px;
-  background-image: url(../../images/cover-trains.jpg);
   background-size: 320px 200px;
 }
 }

@@ -8,6 +8,9 @@
   text-decoration: none;
 }
 
+.footer__link:hover {
+  opacity: 0.8;
+}
 
 @media (max-width: 425px) {
 .footer__link {
