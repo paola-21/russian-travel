@@ -1,14 +1,15 @@
 .places {
   max-width: 984px;
-  padding: 0 148px 92px 148px;
+  padding: 0 148px 97px 148px;
   display: grid;
-  row-gap: 80px;
+  row-gap: 87px;
 }
 
 @media (max-width: 1024px) {
   .places {
     max-width: 928px;
-    padding: 0 48px 92px 48px;
+    padding: 0 48px 96px 48px;
+    row-gap: 83px;
   }
 }
 
@@ -24,6 +25,6 @@
   .places {
     max-width: 425px;
     padding: 0 0 66px 0;
-    row-gap: 50px;
+    row-gap: 51px;
   }
 }
