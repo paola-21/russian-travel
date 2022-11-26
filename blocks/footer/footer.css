@@ -22,7 +22,7 @@
 .footer {
   flex-direction: column;
   justify-content: space-between;
-  min-width: 186px;
+  max-width: 186px;
   padding: 0 118px 24px 16px;
 }
 }
