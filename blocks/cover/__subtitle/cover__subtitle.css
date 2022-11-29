@@ -9,22 +9,21 @@
   line-height: 22px;
   text-align: center;
   color: #FFFFFF;
-  word-break: break-all;
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 1279px) {
 .cover__subtitle {
   padding: 0 332px 195px 332px;
 }
 }
 
-@media (max-width: 768px) { 
+@media (max-width: 1024px) { 
 .cover__subtitle {
   padding: 0 204px 115px 204px;
 }
 }
 
-@media (max-width: 425px) {
+@media (max-width: 767px) {
 .cover__subtitle {
   padding: 0 16px 33px 16px;
   font-size: 14px;

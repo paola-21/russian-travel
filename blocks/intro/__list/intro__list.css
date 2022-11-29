@@ -10,8 +10,20 @@
   line-height: 18px;
 }
 
+@media (max-width: 1024px) {
+  .intro__list {
+    padding-top: 28px;
+   }
+} 
+
+@media (max-width: 768px) {
+  .intro__list {
+    padding-top: 31px;
+   }
+} 
+
 @media (max-width: 425px) {
   .intro__list {
-    padding-top: 32px;
+    padding-top: 59px;
    }
 } 

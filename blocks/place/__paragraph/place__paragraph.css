@@ -12,14 +12,14 @@
   padding-bottom: 0;
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 1279px) {
   .place__paragraph {
     line-height: 160%;
     padding-bottom: 27px;
   }
 }
 
-@media (max-width: 768px) { 
+@media (max-width: 1023px) { 
   .place__paragraph {
     font-size: 16px;
     line-height: 161%;
@@ -27,7 +27,7 @@
   }
 }
 
-@media (max-width: 425px) {
+@media (max-width: 767px) {
   .place__paragraph {
     padding: 0 16px 28px 16px;
   }
