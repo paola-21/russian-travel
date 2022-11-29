@@ -2,7 +2,7 @@
   font-family: 'Inter', "Arial ", sans-serif;
   font-style: normal;
   font-weight: 400;
-  font-size: 22px;
+  font-size: 23px;
   line-height: 38px;
   margin: 0;
   text-decoration: none;
@@ -15,7 +15,7 @@
 
 @media (max-width: 424px) {
   .header__land-link {
-    font-size: 16px;
-    line-height: 29px;
+    font-size: 18px;
+    line-height: 31px;
   }
 }  
