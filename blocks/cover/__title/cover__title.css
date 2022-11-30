@@ -13,13 +13,13 @@
 @media (max-width: 1279px) {
 .cover__title {
   padding: 195px 232px 32px 232px;
-}
+  }
 }
 
 @media (max-width: 1023px) { 
 .cover__title {
   padding: 115px 104px 32px 104px;
-}
+  }
 }
 
 
@@ -27,9 +27,8 @@
 .cover__title {
   font-size: 32px;
   line-height: 35px;
-  padding: 33px 16px 16px 16px;
+  padding: 35px 22px 16px 16px;
   padding-left: auto;
   padding-right: auto;
-  
-}
+  }
 }
